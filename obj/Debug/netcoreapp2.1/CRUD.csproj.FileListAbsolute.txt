@@ -1,0 +1,12 @@
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.deps.json
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.json
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.dev.json
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.dll
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.pdb
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.csprojAssemblyReference.cache
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfoInputs.cache
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfo.cs
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.csproj.CoreCompileInputs.cache
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.dll
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.pdb
+D:\20610\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.genruntimeconfig.cache
